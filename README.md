@@ -27,7 +27,7 @@ To begin working with this project, follow these steps:
 
 1. **🔍 Clone the repository:**
    ```bash
-   git clone https://github.com/Prathmesh311/Apache-Kafka-Wikimedia-queueing.git
+   git clone https://github.com/manigkrish/Apache-Kafka-Wikimedia-queueing.git
    cd Apache-Kafka-Wikimedia-queueing
    ```
 
